@@ -16,20 +16,16 @@ Furthermore, scaling a growing brand into multi-branch ecosystems requires backe
 
 ## 🚀 Core Objectives & Features
 
-* 
-**Aggregated Transaction Architecture:** Replaces raw coin-insertion tracking with unified order entries logging comprehensive cycle totals, custom user settings, and clear payment methods.
+* **Aggregated Transaction Architecture:** Replaces raw coin-insertion tracking with unified order entries logging comprehensive cycle totals, custom user settings, and clear payment methods.
 
 
-* 
-**Omnichannel Service Bundling:** Natively links multi-layered orders (Washing, Drying, Ironing, and Pick-up/Drop-off Delivery logistics) directly to a single customer transaction profile.
+* **Omnichannel Service Bundling:** Natively links multi-layered orders (Washing, Drying, Ironing, and Pick-up/Drop-off Delivery logistics) directly to a single customer transaction profile.
 
 
-* 
-**Enterprise Multi-Branch Scaling:** Centralizes administrative authority to handle disparate regional branch metadata, regional staff placement, and distinct employee task states.
+* **Enterprise Multi-Branch Scaling:** Centralizes administrative authority to handle disparate regional branch metadata, regional staff placement, and distinct employee task states.
 
 
-* 
-**Tiered Loyalty Discount Matrix:** Tracks a dynamic customer database utilizing membership tiers (`Bronze`, `Silver`, `Gold`, `Diamond`) to calculate real-time savings margins dynamically.
+* **Tiered Loyalty Discount Matrix:** Tracks a dynamic customer database utilizing membership tiers (`Bronze`, `Silver`, `Gold`, `Diamond`) to calculate real-time savings margins dynamically.
 
 
 
