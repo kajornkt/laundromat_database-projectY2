@@ -101,37 +101,37 @@ All data analytics and operational scripts are organized cleanly inside the `/co
 ### 📁 `/commands/beginner`
 
 * **`beginner1.sql`**
-* **Business Purpose:** Identifies veteran branch staff working over 1 year to evaluate retention stability and distribute senior training resources.
+  * **Business Purpose:** Identifies veteran branch staff working over 1 year to evaluate retention stability and distribute senior training resources.
 
 
 
 
 * **`beginner2.sql`**
-* **Business Purpose:** Tallies and ranks historical garment counts to uncover customer garment preferences, optimizing inventory targets and tailoring pricing structures.
+  * **Business Purpose:** Tallies and ranks historical garment counts to uncover customer garment preferences, optimizing inventory targets and tailoring pricing structures.
 
 
 
 
 * **`beginner3.sql`**
-* **Business Purpose:** Computes the average transaction size to track customer spending patterns and judge seasonal baseline performance.
+  * **Business Purpose:** Computes the average transaction size to track customer spending patterns and judge seasonal baseline performance.
 
 
 
 
 * **`beginner4.sql`**
-* **Business Purpose:** Returns customer order histories that successfully reached a completed status, useful for tracking fulfillment efficiency.
+  * **Business Purpose:** Returns customer order histories that successfully reached a completed status, useful for tracking fulfillment efficiency.
 
 
 
 
 * **`beginner5.sql`**
-* **Business Purpose:** Tracks historical hardware wear patterns to build preventive machine maintenance schedules and flag underutilized capacity.
+  * **Business Purpose:** Tracks historical hardware wear patterns to build preventive machine maintenance schedules and flag underutilized capacity.
 
 
 
 
 * **`beginner6.sql`**
-* **Business Purpose:** Ranks geographic locations by transaction frequency to guide resource adjustments and highlight underperforming markets.
+  * **Business Purpose:** Ranks geographic locations by transaction frequency to guide resource adjustments and highlight underperforming markets.
 
 
 
@@ -140,49 +140,49 @@ All data analytics and operational scripts are organized cleanly inside the `/co
 ### 📁 `/commands/middle`
 
 * **`middle1.sql`**
-* **Business Purpose:** Maps where registered members actively generate orders to evaluate localized engagement and steer targeted community marketing.
+  * **Business Purpose:** Maps where registered members actively generate orders to evaluate localized engagement and steer targeted community marketing.
 
 
 
 
 * **`middle2.sql`**
-* **Business Purpose:** Aggregates gross revenue yields specifically across core online wash/dry categories to measure primary line profitability.
+  * **Business Purpose:** Aggregates gross revenue yields specifically across core online wash/dry categories to measure primary line profitability.
 
 
 
 
 * **`middle3.sql`**
-* **Business Purpose:** Pinpoints clients using both courier delivery and professional iron pipelines to isolate high-value convenience shoppers.
+  * **Business Purpose:** Pinpoints clients using both courier delivery and professional iron pipelines to isolate high-value convenience shoppers.
 
 
 
 
 * **`middle4.sql`**
-* **Business Purpose:** Calculates the concrete monetary discounts enjoyed by members to measure loyalty-tier value and verify profit margins.
+  * **Business Purpose:** Calculates the concrete monetary discounts enjoyed by members to measure loyalty-tier value and verify profit margins.
 
 
 
 
 * **`middle5.sql`**
-* **Business Purpose:** Ranks individual shoppers by total active interactions across all services to guide VIP incentive distribution.
+  * **Business Purpose:** Ranks individual shoppers by total active interactions across all services to guide VIP incentive distribution.
 
 
 
 
 * **`middle6.sql`**
-* **Business Purpose:** Pulls the elite top-tier spending accounts across completed orders for direct premium account stewardship.
+  * **Business Purpose:** Pulls the elite top-tier spending accounts across completed orders for direct premium account stewardship.
 
 
 
 
 * **`middle7.sql`**
-* **Business Purpose:** Utilizes subqueries to find customers who outspend the typical user baseline, helping target specialized pilot campaigns.
+  * **Business Purpose:** Utilizes subqueries to find customers who outspend the typical user baseline, helping target specialized pilot campaigns.
 
 
 
 
 * **`middle8.sql`**
-* **Business Purpose:** Lists operational workers (delivery and ironing) alongside their local nodes to balance regional labor and handle shift planning.
+  * **Business Purpose:** Lists operational workers (delivery and ironing) alongside their local nodes to balance regional labor and handle shift planning.
 
 
 
@@ -191,37 +191,37 @@ All data analytics and operational scripts are organized cleanly inside the `/co
 ### 📁 `/commands/high`
 
 * **`high1.sql`**
-* **Business Purpose:** Runs deep calculations pooling multi-microservice pipelines while incorporating individual discount variables to populate the ledger seamlessly.
+  * **Business Purpose:** Runs deep calculations pooling multi-microservice pipelines while incorporating individual discount variables to populate the ledger seamlessly.
 
 
 
 
 * **`high2.sql`**
-* **Business Purpose:** Generates total performance calculations broken down by explicit category divisions to isolate vertical growth.
+  * **Business Purpose:** Generates total performance calculations broken down by explicit category divisions to isolate vertical growth.
 
 
 
 
 * **`high3.sql`**
-* **Business Purpose:** Breaks down local income daily across all service models to give management a granular view of branch health.
+  * **Business Purpose:** Breaks down local income daily across all service models to give management a granular view of branch health.
 
 
 
 
 * **`high4.sql`**
-* **Business Purpose:** Establishes reusable database views to analyze daily demand changes without running redundant operations.
+  * **Business Purpose:** Establishes reusable database views to analyze daily demand changes without running redundant operations.
 
 
 
 
 * **`high5.sql`**
-* **Business Purpose:** Packs transaction totals, ticket averages, and action counts into a single view for simplified business evaluation.
+  * **Business Purpose:** Packs transaction totals, ticket averages, and action counts into a single view for simplified business evaluation.
 
 
 
 
 * **`high6.sql`**
-* **Business Purpose:** Extracts premium regular accounts bundling primary cycles to drive dedicated long-term customer retention campaigns.
+  * **Business Purpose:** Extracts premium regular accounts bundling primary cycles to drive dedicated long-term customer retention campaigns.
 
 
 
